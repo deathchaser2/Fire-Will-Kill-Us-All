@@ -1,0 +1,10 @@
+C:\Users\Stef\Desktop\procp---fire-will-kill-us-all\App\FireWillKillUsAll\StatisticsForm\bin\Debug\StatisticsForm.exe.config
+C:\Users\Stef\Desktop\procp---fire-will-kill-us-all\App\FireWillKillUsAll\StatisticsForm\bin\Debug\StatisticsForm.exe
+C:\Users\Stef\Desktop\procp---fire-will-kill-us-all\App\FireWillKillUsAll\StatisticsForm\bin\Debug\StatisticsForm.pdb
+C:\Users\Stef\Desktop\procp---fire-will-kill-us-all\App\FireWillKillUsAll\StatisticsForm\obj\Debug\StatisticsForm.csprojAssemblyReference.cache
+C:\Users\Stef\Desktop\procp---fire-will-kill-us-all\App\FireWillKillUsAll\StatisticsForm\obj\Debug\StatisticsForm.Statistics.resources
+C:\Users\Stef\Desktop\procp---fire-will-kill-us-all\App\FireWillKillUsAll\StatisticsForm\obj\Debug\StatisticsForm.Properties.Resources.resources
+C:\Users\Stef\Desktop\procp---fire-will-kill-us-all\App\FireWillKillUsAll\StatisticsForm\obj\Debug\StatisticsForm.csproj.GenerateResource.cache
+C:\Users\Stef\Desktop\procp---fire-will-kill-us-all\App\FireWillKillUsAll\StatisticsForm\obj\Debug\StatisticsForm.csproj.CoreCompileInputs.cache
+C:\Users\Stef\Desktop\procp---fire-will-kill-us-all\App\FireWillKillUsAll\StatisticsForm\obj\Debug\StatisticsForm.exe
+C:\Users\Stef\Desktop\procp---fire-will-kill-us-all\App\FireWillKillUsAll\StatisticsForm\obj\Debug\StatisticsForm.pdb
