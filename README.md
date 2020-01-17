@@ -3,6 +3,7 @@
 "Fire Will Kill Us All" is a collaborative project, which me and 4 others made for university.
 
 NOTE: The classes I personally worked on are:
+
 	-Dijkstra.cs (Dijkstra algorithm implementation)
 	-Extinguisher.cs (The code for the fire extinguisher)
 	-Pathfinding.cs (A* algorithm implementation)
@@ -23,6 +24,7 @@ Additionally, the app has the possibility to be connected to a Unity player for 
 however, is optional and not required.
 
 There are 4 personality types for people:
+
 	-Pussy - spawns 68% of the time. Will run for the exit only, if exit is blocked, will panic and run in circles.
 	-Selfish - spawns 20% of the time. Will run for the exit, if exit is blocked, then will run towards an extinguisher.
 	-Hero - spawns 10% of the time. Runs for the extinguisher immediately, if no extinguishers/path is blocked, will run for exit.
